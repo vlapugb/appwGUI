@@ -38,7 +38,7 @@ int main ()
     {
         cout << value << " ";
     }
-    cout << endl;
+    cout << endl<< " ";
 
     cout << "vec2:" << endl;
     for (const auto &matrix : result.vec2)
